@@ -2,4 +2,4 @@
 Create Round JButton
 
 
-(/relative/path/to/sample.png?raw=true "Optional Title")
+![](/sample.png?raw=true "Optional Title")
